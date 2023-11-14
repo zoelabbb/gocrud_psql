@@ -16,7 +16,8 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) Rest API f
 - **Gorilla Mux:** A powerful URL router and dispatcher for matching incoming requests to their respective handler functions.
 
 ## Tools Used
-- **fl0:** For deploy or make database PostgreSQL
+- **fl0:** For deploy backend applications and databases in minutes.
+- **Postman:** Testing API
 
 ## Getting Started
 
