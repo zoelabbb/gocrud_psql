@@ -15,11 +15,14 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) Rest API f
 - **PostgreSQL:** The database management system used to store and retrieve book data.
 - **Gorilla Mux:** A powerful URL router and dispatcher for matching incoming requests to their respective handler functions.
 
+## Tools Used
+- **fl0:** For deploy or make database PostgreSQL
+
 ## Getting Started
 
 Follow these steps to set up and run the Golang CRUD Rest API on your local machine:
 
-1. Clone the repository: `git clone https://github.com/your-username/golang-crud-rest-api-postgresql.git`
+1. Clone the repository: `git clone https://github.com/zoelabbb/gocrud_psql.git`
 2. Install dependencies: `go mod tidy`
 3. Configure PostgreSQL connection in the `.env` file.
 4. Run the application: `go run main.go`
