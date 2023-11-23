@@ -27,7 +27,7 @@ Follow these steps to set up and run the Golang CRUD Rest API on your local mach
 2. Install dependencies: `go mod tidy`
 3. Configure PostgreSQL connection in the `.env` file.
 4. Run the application: `go run main.go`
-5. Access the API at `http://localhost:8080`
+5. Access the API at `http://localhost:8080/{routes}`
 
 Feel free to explore and extend this project to suit your requirements. Contributions and suggestions are welcome!
 
